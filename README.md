@@ -1,10 +1,10 @@
-# Alura Midi
+# Alura MIDI
 
 Projeto feito na Alura com propósito de treinar JavaScript para Web
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Alura Midi**
+| :sparkles: Nome        | **Alura MIDI**
 | :label: Tecnologias | JavaScript, HTML, CSS (tecnologias utilizadas)
 | :rocket: URL         | (https://aluramidi-20b1y9x2o-laisaf7.vercel.app)
 
@@ -13,4 +13,4 @@ Projeto feito na Alura com propósito de treinar JavaScript para Web
 
 ## Detalhes do projeto
 
-Ao clicar nos botões sai um som diferente.
+O Alura MIDI é um instrumento musical de interface digitial (MIDI), que reproduz sons de instrumentos musicais ao clicar ou pressionar com teclado em seus botões.
