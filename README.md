@@ -1,17 +1,16 @@
-# Nome do meu projeto
+# Alura Midi
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto feito na Alura com propósito de treinar JavaScript para Web
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Alura Midi**
+| :label: Tecnologias | JavaScript, HTML, CSS (tecnologias utilizadas)
+| :rocket: URL         | (https://aluramidi-20b1y9x2o-laisaf7.vercel.app)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![Exemplo do projeto](https://github.com/laisaf7/Aluramidi/assets/137813392/172823b4-6097-40f1-aefb-9465f6170e22#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Ao clicar nos botões sai um som diferente.
